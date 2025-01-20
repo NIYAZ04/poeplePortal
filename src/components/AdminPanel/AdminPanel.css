@@ -1,0 +1,26 @@
+.admin-panel {
+    padding: 20px;
+  }
+  
+  .admin-panel ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .admin-panel li {
+    margin: 10px 0;
+  }
+  
+  .admin-panel button {
+    background-color: red;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .admin-panel button:hover {
+    background-color: darkred;
+  }
+  

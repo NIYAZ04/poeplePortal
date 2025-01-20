@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "photo": "https://via.placeholder.com/150",
+      "description": "Software Engineer",
+      "address": "1600 Amphitheatre Parkway, Mountain View, CA",
+      "latitude": 37.4221,
+      "longitude": -122.0841,
+      "details": "Experienced software engineer specializing in frontend technologies."
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "photo": "https://via.placeholder.com/150",
+      "description": "Graphic Designer",
+      "address": "10 Downing St, London",
+      "latitude": 51.5034,
+      "longitude": -0.1276,
+      "details": "Creative graphic designer with a knack for branding."
+    }
+  ]
+  
